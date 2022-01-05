@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Ferwall1 (WaLL)
+- 👀 I’m interested in Java, Solidity and games
+- 🌱 I’m currently learning Solidity
+- 💞️ I’m looking to collaborate on all i can
